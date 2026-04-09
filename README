@@ -157,7 +157,18 @@ The project includes:
 - Scikit-learn  
 - Jupyter Notebook  
 
----
+----------------------------------------
+
+
+## Dataset
+
+The original dataset is large (>400MB), so a sample dataset is provided.
+
+File included:
+- Fraud_Sample.csv (Sample dataset for testing)
+
+-------------------------------------
+
 
 ## Author
 
